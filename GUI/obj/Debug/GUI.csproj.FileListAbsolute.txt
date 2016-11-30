@@ -1,0 +1,9 @@
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\bin\Debug\GUI.exe.config
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\bin\Debug\GUI.exe
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\bin\Debug\GUI.pdb
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.exe
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.pdb
+C:\Users\RyansHomePC\Desktop\Sophomore Year\CS 3810\CPU Cache Simulator\CPU_CacheSimulator\GUI\obj\Debug\GUI.CacheSimulatorGUI.resources
